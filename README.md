@@ -7,6 +7,7 @@ TDD勉強会用のJavaのblankプロジェクトです
  * Eclipseの設定とか使い方とか
 * Quick JUnit
  * http://quick-junit.sourceforge.jp/
+ * JavaでTDDやる時はこれがないと始まらない
  * Update siteに http://quick-junit.sourceforge.jp/updates/current/ を登録して「Quick JUnit for Java Developer」を選択
 * hamcrestのMatcherメモ - 都元ダイスケ IT-PRESS
  * http://d.hatena.ne.jp/daisuke-m/20090710/1247181113
